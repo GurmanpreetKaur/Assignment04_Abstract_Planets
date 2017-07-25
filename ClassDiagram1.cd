@@ -21,5 +21,12 @@
       <FileName>TerrestrialPlanet.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Interface Name="Assignment04_Abstract_Planets.IHasMoons">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHasMoons.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
