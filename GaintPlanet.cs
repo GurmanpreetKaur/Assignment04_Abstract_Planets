@@ -8,10 +8,11 @@ using System.Text;
  * Date - 25 July , 2017
  * Description - This is my GaintPlanet class which is a derived class from Abstract class Planet
  * Version 0.1 - Created Abstract class  
+ *         0.2 - Linked IHasMoons and IHasRings interfaces
  * */
 namespace Assignment04_Abstract_Planets
 {
-    public class GaintPlanet : Planet
+    public class GaintPlanet : Planet, IHasMoons, IHasRings
     {
         //private instance variables
         private string _type;

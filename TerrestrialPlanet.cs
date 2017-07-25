@@ -7,10 +7,11 @@ using System.Text;
  * Date - 25 July , 2017
  * Description - This is my Terrestrial Planet class which is derived from Planet Abstract class
  * Version 0.1 - Created TerrestrailPlanet class
+ *         0.2 - Linked interfaces IHasMoons and IHabitable
  * */
 namespace Assignment04_Abstract_Planets
 {
-    public class TerrestrialPlanet : Planet
+    public class TerrestrialPlanet : Planet, IHasMoons, IHabitable
     {
 
         //private instance variables

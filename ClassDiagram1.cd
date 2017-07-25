@@ -13,6 +13,7 @@
       <HashCode>AAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GaintPlanet.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Assignment04_Abstract_Planets.TerrestrialPlanet">
     <Position X="3.25" Y="2" Width="1.5" />
@@ -20,6 +21,7 @@
       <HashCode>AAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>TerrestrialPlanet.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Interface Name="Assignment04_Abstract_Planets.IHasMoons">
     <Position X="9" Y="0.75" Width="1.5" />
