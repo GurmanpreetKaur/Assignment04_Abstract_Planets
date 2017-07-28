@@ -16,10 +16,10 @@ namespace Assignment04_Abstract_Planets
     {
         static void Main(string[] args)
         {
-            GaintPlanet Gaint = new GaintPlanet("Mercury", 4879, 3.285000000000000000, "solid");
+            GaintPlanet Gaint = new GaintPlanet("Mercury", 4879, 3.285, "solid");
             Console.WriteLine(Gaint.ToString());
             Console.WriteLine();
-            TerrestrialPlanet teri = new TerrestrialPlanet("Mercury", 4879, 3.285000000000000000, true);
+            TerrestrialPlanet teri = new TerrestrialPlanet("Earth", 12742, 5.972, true);
             Console.WriteLine(teri.ToString());
             WaitForAnyKey();
 
